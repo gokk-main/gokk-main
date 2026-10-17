@@ -1,6 +1,6 @@
-## Hello there ![hello](https://tenor.com/ru/view/hello-wave-waving-waving-meme-hewo-gif-2687309162503277218)
+## Hello there 
 
-cs student
+cs student ![hello](spongebob-work.gif)
 
 ## learning: 
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
