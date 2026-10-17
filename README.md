@@ -1,6 +1,6 @@
 ## Hello there 
-
-cs student <img src="spongebob-work.gif" width="200" alt="bob">
+<img src="spongebob-work.gif" width="100" alt="bob">
+cs student
 
 ## learning: 
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
