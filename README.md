@@ -1,5 +1,5 @@
 ## Hello there 
-<img src="spongebob-work.gif" width="100" alt="bob">
+<img src="spongebob-work.gif" width="150" alt="bob">
 cs student
 
 ## learning: 
